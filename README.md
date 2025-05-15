@@ -23,7 +23,7 @@ python issue87_2_series_classification_llm.py
 
 ## Resources
 
-### [✍️ Link to the series narratives dataset **PCN-tcia**](./datasets/tcia_series_narratives/collection.csv)
+### [✍️ Link to the series narratives dataset **PSN-tcia**](./datasets/tcia_series_narratives/collection.csv)
 
 ### [🤖 Link to the LLM responses](./data/collection-gpt-4-turbo-2024-04-09_medical-v2.1.csv)
 
