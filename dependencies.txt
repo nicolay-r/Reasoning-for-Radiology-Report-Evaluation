@@ -1,0 +1,5 @@
+pydicom==2.4.4
+source-iter==0.24.0
+scikit-learn==1.5.1
+seaborn==0.13.2
+git+https://github.com/nicolay-r/mmi-kit@master
