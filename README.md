@@ -1,5 +1,7 @@
 # Reasoning for Radiology Report Evaluation
 ![](https://img.shields.io/badge/Python-3.10-brightgreen.svg)
+[![twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://x.com/nicolayr_/status/1931325119403536404)
+
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/ac78b035-1ef7-43a5-ad08-94d5df2aff15" width="800" height="auto"/>
