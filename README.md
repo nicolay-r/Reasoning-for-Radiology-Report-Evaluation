@@ -6,6 +6,13 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/ac78b035-1ef7-43a5-ad08-94d5df2aff15" width="800" height="auto"/>
 </p>
+
+> **NOTE:** The demo above represent a complementary part of the project.
+> 
+> This acts as an evidence for the concepts utilized in experiments.
+>
+> The main focus and contribution of this reporsitory is **an experimential setup**.
+
 <p align="center">
   <a href="https://www.dropbox.com/scl/fi/ixo08df4nzfco5e52a7b8/AniNex_CASA_2025_Poster_Print_2_Pages_Version.pdf?rlkey=ksc5q7mretnnvr8iuhjp7m083&st=zuqxe037&dl=1">👉<b>poster</b>👈</a>
 </p>
